@@ -1,1 +1,0 @@
-from boost_camera import CameraManager
